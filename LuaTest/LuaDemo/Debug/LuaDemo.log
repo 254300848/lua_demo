@@ -1,0 +1,36 @@
+﻿  stdafx.cpp
+  LuaDemo.cpp
+lua5.3.lib(lapi.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lauxlib.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lbaselib.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lcode.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lcorolib.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lctype.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ldblib.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ldebug.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ldo.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ldump.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lfunc.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lgc.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(linit.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(liolib.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(llex.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lmathlib.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lmem.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(loadlib.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lobject.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lopcodes.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(loslib.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lparser.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lstate.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lstring.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lstrlib.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ltable.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ltablib.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(ltm.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lundump.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lutf8lib.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lvm.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+lua5.3.lib(lzio.obj) : warning LNK4204: “E:\新建文件夹\LuaTest\Debug\lua5.3.pdb”缺少引用模块的调试信息；正在链接对象，如同没有调试信息一样
+  LuaDemo.vcxproj -> E:\新建文件夹\LuaTest\Debug\LuaDemo.exe
+  LuaDemo.vcxproj -> E:\新建文件夹\LuaTest\Debug\LuaDemo.pdb (Full PDB)
